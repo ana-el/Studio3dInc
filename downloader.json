@@ -6,9 +6,9 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "",
-      "admob_interstitial_id" : "",
-      "admob_native_id" : "",
+      "admob_banner_id" : "ca-app-pub-4086177790270588/3733183456",
+      "admob_interstitial_id" : "ca-app-pub-4086177790270588/7480856778",
+      "admob_native_id" : "ca-app-pub-4086177790270588/1817466550",
       "admob_rewarded_id" : "",
       "admob_unit_id" : ""
     },
