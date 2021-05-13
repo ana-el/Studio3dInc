@@ -16,10 +16,10 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#",
-      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#",
-      "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
-      "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
+      "facebook_banner_id" : "144792860891967_144793074225279",
+      "facebook_interstitial_id" : "144792860891967_144793497558570",
+      "facebook_native_id" : "144792860891967_144793737558546",
+      "facebook_native_banner_id" : "144792860891967_144793954225191"
     },
     "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "admob",
