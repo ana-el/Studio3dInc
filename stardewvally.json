@@ -21,11 +21,11 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "0",
-    "mode_ads_interstitial" : "0",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "0",
+    "mode_ads_rewarded" : "admob",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
@@ -44,15 +44,72 @@
       "mode_button_ads_action" : "rate"
     }
   },
-  "posts" : [
-   
-    {
-      "id" : 0,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "",
-      "description" : "",
-      "written" : ""
-    }
-  ]
+  "posts" :{
+   "posts":[
+      {
+         "id":0,
+         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/NightMarket-1-1.png",
+         "state":"free",
+         "title":"You're moving to the Valley..",
+         "description":"You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life!",
+         "written":""
+      },
+      {
+         "id":1,
+         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png",
+         "state":"free",
+         "title":"Features",
+         "description":"Create the farm of your dreams: Turn your overgrown fields into a lively and bountiful farm!Learn to live off the land: Raise animals, fishing, tend to crops, craft items, or do it all The choice is yours... Become a part of the local community: Pelican Town is home to over 30 residents you can befriend! Meet someone special: With 12 townsfolk to date, you may even find someone to start a family with! Explore vast, mysterious caves: Encounter dangerous monsters & valuable treasures deep underground! Customize: There are hundreds of character & home decoration options to choose from!",
+         "written":""
+      },
+      {
+         "id":2,
+         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/StardewValley_12-1.png",
+         "state":"vip",
+         "title":"About Stardew Valley",
+         "description":"Stardew Valley is an open-ended country-life RPG! You’ve inherited your grandfather’s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won’t be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town’s most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness!",
+         "written":""
+      },
+      {
+         "id":3,
+         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/StardewValley_4.png",
+         "state":"vip",
+         "title":"Getting Started",
+         "description":"Stardew Valley is an open-ended game, allowing the player to achieve goals non-linearly.There are various ways to earn income and many activities to choose from including farming, fishing, foraging, mining, combat (fighting enemies), crafting, cooking, gift giving, completing quests, donating to the Museum and restoring the Community Center.",
+         "written":""
+      },
+      {
+         "id":4,
+         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/StardewValley_11.png",
+         "state":"vip",
+         "title":"Options",
+         "description":"There are two places to set Options in Stardew Valley: Advanced Options When creating a new game, click the wrench button at the bottom left of the new character creation screen to choose Advanced Options Optionstab.pngOpen the in-game menu, and choose the Options tab",
+         "written":""
+      },
+      {
+         "id":5,
+         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/StardewValley_5.png",
+         "state":"free",
+         "title":"Skills",
+         "description":"Skills are player attributes which are leveled up through the use of specific tools or actions. Each skill has ten levels. A skill level increase is awarded immediately upon earning enough experience points for a new level, and is immediately displayed on the skills tab of the inventory. The new skill level immediately increases the proficiency of the tool(s) associated with that skill.Overnight, after the player goes to bed on the day a skill level increases, a popup announces the increase, and additionally awards knowledge of any applicable crafting or cooking recipes. At level 5 and level 10, players also select which one of two available Professions to specialize in. Each profession has its own set of benefits, such as sell price bonuses for related items. It should be noted that awards of recipe knowledge or profession benefits do not take place until seen in the popup overnight, and are not available until the first thing the following morning. In particular, items sold or shipped the day of the skill level increase do not receive the new price bonuses. Like recipes, profession benefits are only available beginning the following day.",
+         "written":""
+      },
+      {
+         "id":6,
+         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/1_1screenshot15.png",
+         "state":"free",
+         "title":"The day cycle",
+         "description":"The day cycle is a period of 20 hours in-game from 6am to 2am in which the player (farmer) is able to work and perform other activities around the Valley. The player will always wake up at the same time every day, but they are able to choose to go to bed whenever they like, which ends the day.",
+         "written":""
+      },
+      {
+         "id":7,
+         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/NightMarket-1-1.png",
+         "state":"free",
+         "title":"Health",
+         "description":"Health is measured by a bar next to the energy bar in the bottom right corner of the user interface (UI). The health bar is only visible while inside of The Mines, the Secret Woods, the Slime Hutch, the Skull Cavern, the Mutant Bug Lair, the Quarry Mine, the Volcano Dungeon, or when the meter is not full. Outside of the Mines, the most common ways to lose Health are by getting hit by the train on the Railroad, or by the Slimes in the Secret Woods or in the Slime Hutch. Players may choose the Wilderness Map, or offer a Strange Bun to the Dark Shrine of Night Terrors in the Witch's Hut to enable Monsters on The Farm, who will attack and drain the player's health at night.Health can be replenished either by consuming food, sleeping, using the Spa, or eating Stardrops. In a multiplayer game, health (and energy) can be replenished by standing in bed without going to sleep for the day. Maximum health capacity starts at 100 points. Each increase in Combat Level adds 5 points to the player's health meter, with the exceptions of levels 5 and 10. Health points are only increased when levelling up to levels 5 or 10 if the Fighter and Defender professions are chosen. Finding Secret Note #10 and then meeting Mr. Qi at level 100 of the Skull Cavern will award the player with a cutscene in which Mr. Qi gives the player Iridium snake milk, which will increase maximum health by 25 points.",
+         "written":""
+      }
+   ]
+}
 }
