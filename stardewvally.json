@@ -44,8 +44,7 @@
       "mode_button_ads_action" : "rate"
     }
   },
-  "posts" :{
-   "posts":[
+  "posts":[
       {
          "id":0,
          "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/NightMarket-1-1.png",
@@ -111,5 +110,5 @@
          "written":""
       }
    ]
-}
+
 }
