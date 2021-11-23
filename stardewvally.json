@@ -21,11 +21,11 @@
       "facebook_native_id" : "1078416992917299_1078422066250125",
       "facebook_native_banner_id" : "1078416992917299_1078422422916756"
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "facebook",
+    "mode_ads_interstitial" : "facebook",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_rewarded" : "facebook",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
