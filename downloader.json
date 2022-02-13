@@ -16,15 +16,15 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "144792860891967_144793074225279",
-      "facebook_interstitial_id" : "144792860891967_144793497558570",
-      "facebook_native_id" : "144792860891967_144793737558546",
-      "facebook_native_banner_id" : "144792860891967_144793954225191"
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : "",
+      "facebook_native_banner_id" : ""
     },
-    "mode_ads_banner" : "facebook",
-    "mode_ads_interstitial" : "facebook",
+    "mode_ads_banner" : "",
+    "mode_ads_interstitial" : "",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "facebook",
+    "mode_ads_rewarded" : "",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
@@ -39,7 +39,7 @@
       "update_title" : "update your app"
     },
     "cpabuild" : {
-        "cpabuild_offer_state" : false,
+        "cpabuild_offer_state" : true,
         "cpabuild_offer_user_id" : "168608",
         "cpabuild_offer_api_key" : "4feb2601fdfb4908b0e23d4882c9980d"
     },
