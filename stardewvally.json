@@ -45,6 +45,13 @@
     }
   },
   "adNetwork" : {
+	"config" : {
+	"mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_native" : "admob",
+    "mode_ads_rewarded" : "admob",
+	},
+  
     "adcolony" : {
 	  "work" :"0",
       "adcolony_app_id" : "",
@@ -99,6 +106,14 @@
       "adManager_native_id" : "",
       "adManager_rewarded_id" : "",
       "adManager_unit_id" : ""
+    },
+	"startApp" : {
+	  "work" :"0",
+      "startApp_banner_id" : "",
+      "startApp_interstitial_id" : "",
+      "startApp_native_id" : "",
+      "startApp_rewarded_id" : "",
+      "startApp_unit_id" : ""
     }
 	}
 ,
