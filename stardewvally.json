@@ -1,50 +1,10 @@
 {
-  "config" : {
-    "adcolony" : {
-      "adcolony_app_id" : "",
-      "adcolony_interstitial_id" : "",
-      "adcolony_rewarded_id" : ""
-    },
-    "admob" : {
-      "admob_banner_id" : "ca-app-pub-4086177790270588/4300670728",
-      "admob_interstitial_id" : "ca-app-pub-4086177790270588/6170788612",
-      "admob_native_id" : "ca-app-pub-4086177790270588/5979216929",
-      "admob_rewarded_id" : "ca-app-pub-4086177790270588/2039971910",
-      "admob_unit_id" : ""
-    },
-    "appodeal" : {
-      "appodeal_app_key" : ""
-    },
-    "facebook" : {
-      "facebook_banner_id" : "1078416992917299_1078421446250187",
-      "facebook_interstitial_id" : "1078416992917299_1078421732916825",
-      "facebook_native_id" : "1078416992917299_1078422066250125",
-      "facebook_native_banner_id" : "1078416992917299_1078422422916756"
-    },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
-    "mode_ads_interstitial_mix" : "0",
-    "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
-    "unity" : {
-      "unity_app_id" : "",
-      "unity_banner_id" : "",
-      "unity_interstitial_id" : "",
-      "unity_rewarded_id" : ""
-    },
-    "update" : {
-      "enable_update_closed" : true,
-      "update_action" : "",
-      "update_msg" : "update your app for grt all favorite now",
-      "update_state" : false,
-      "update_title" : "update your app"
-    },
-    "app" : {
-      "mode_off_version" : "0",
-      "mode_button_ads_action" : "rate"
-    }
-  },
+  "urlGame" : "https://cdn.gamesnacks.com/basketballmaster4/gameCode/index.html",
+  "descGame" : "test",
+  "urlImageGame" : "test",
+  "nameGame" : "test",
   "adNetwork" : {
+ 
 	"config" : {
 	"mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "admob",
@@ -116,6 +76,7 @@
       "startApp_unit_id" : ""
     }
 	}
+
 ,
   "posts":[
       {
@@ -183,5 +144,5 @@
          "written":""
       }
    ]
-
 }
+
