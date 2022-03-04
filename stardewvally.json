@@ -6,7 +6,7 @@
   "adNetwork" : {
  
 	"config" : {
-	"mode_ads_banner" : "admob",
+	"mode_ads_banner" : "facebook",
     "mode_ads_interstitial" : "admob",
     "mode_ads_native" : "admob",
     "mode_ads_rewarded" : "admob"
@@ -39,10 +39,10 @@
     },
     "facebook" : {
 	  "work" :"0",
-      "facebook_banner_id" : "",
-      "facebook_interstitial_id" : "",
-      "facebook_native_id" : "",
-      "facebook_native_banner_id" : ""
+      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#",
+      "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
+      "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
     "unity" : {
 	  "work" :"0",
